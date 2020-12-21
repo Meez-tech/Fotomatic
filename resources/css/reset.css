@@ -1,0 +1,17 @@
+html {
+  font-family: Roboto;
+}
+
+header .content {
+  height: 85px;
+  display: flex;
+}
+
+.desktop {
+  display: inline-flex;
+}
+
+header .icon {
+  width: 1rem;
+  padding-left: 0.75rem;
+}
